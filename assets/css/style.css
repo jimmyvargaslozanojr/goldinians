@@ -385,7 +385,7 @@ h6 {
   transition: 0.5s;
   color: #fff;
   background: #c8bc14;
-  box-shadow: 0 8px 28px rgba(22, 223, 126, 0.45);
+  box-shadow: 0 8px 28px rgba(223, 210, 22, 0.45);
 }
 
 #hero .btn-get-started:hover {
