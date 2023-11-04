@@ -1,2 +1,2 @@
 # goldinians
-Goldininas Website
+Goldinians Website
