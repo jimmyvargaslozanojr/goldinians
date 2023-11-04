@@ -6,6 +6,6 @@
     <title>Goldinians</title>
 </head>
 <body>
-    
+    <p>Hello friend!</p>
 </body>
 </html>
