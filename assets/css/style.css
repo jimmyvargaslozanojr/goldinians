@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #c8bc14;
+  color: #ffc601;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #c8bc14;
+  background: #ffc601;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #c8bc14;
+  background: #ffc601;
   color: #fff;
 }
 
@@ -91,7 +91,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 #header .logo img {
@@ -151,7 +151,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 .navbar .getstarted,
@@ -164,7 +164,7 @@ h6 {
   font-size: 14px;
   font-weight: 500;
   border: 1px solid #ffffff;
-  background: #c8bc14;
+  background: #ffc601;
 }
 
 .navbar .getstarted:hover,
@@ -208,7 +208,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 .navbar .dropdown:hover>ul {
@@ -308,7 +308,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 .navbar-mobile .getstarted,
@@ -344,7 +344,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -390,7 +390,7 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #c8bc14;
+  background: #ffc601;
   box-shadow: 0 8px 28px rgba(248, 232, 4, 0.877);
 }
 
@@ -418,7 +418,7 @@ h6 {
 }
 
 #hero .btn-watch-video:hover i {
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 #hero .animated {
@@ -562,7 +562,7 @@ section {
 }
 
 .featured-services .icon i {
-  color: #c8bc14;
+  color: #ffc601;
   font-size: 36px;
 }
 
@@ -582,7 +582,7 @@ section {
 }
 
 .featured-services .icon-box:hover .title a {
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 .featured-services .description {
@@ -611,7 +611,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 .about .content p:last-child {
@@ -628,7 +628,7 @@ section {
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: #c8bc14;
+  color: #ffc601;
   font-weight: 700;
 }
 
@@ -661,7 +661,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #c8bc14;
+  color: #ffc601;
   font-size: 36px;
   transition: 0.3s;
 }
@@ -688,7 +688,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 /*--------------------------------------------------------------
@@ -764,7 +764,7 @@ section {
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover,
 .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #c8bc14;
+  color: #ffc601;
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -797,11 +797,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #c8bc14;
+  border: 1px solid #ffc601;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #c8bc14;
+  background-color: #ffc601;
 }
 
 .portfolio-details .portfolio-info {
@@ -916,18 +916,18 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #c8bc14;
+  border: 1px solid #ffc601;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #c8bc14;
+  background-color: #ffc601;
 }
 
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: #c8bc14;
+  background: #ffc601;
   background-size: cover;
   padding: 60px 0;
 }
@@ -1018,8 +1018,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
-  border-top: 3px solid #c8bc14;
-  border-bottom: 3px solid #c8bc14;
+  border-top: 3px solid #ffc601;
+  border-bottom: 3px solid #ffc601;
   padding: 30px;
   width: 100%;
   background-color: #f9f9fa;
@@ -1027,7 +1027,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #c8bc14;
+  color: #ffc601;
   float: left;
   width: 44px;
   height: 44px;
@@ -1074,21 +1074,21 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #c8bc14;
+  background: #ffc601;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #c8bc14;
+  background: #ffc601;
   color: #fff;
 }
 
 .contact .php-email-form {
   width: 100%;
-  border-top: 3px solid #c8bc14;
-  border-bottom: 3px solid #c8bc14;
+  border-top: 3px solid #ffc601;
+  border-bottom: 3px solid #ffc601;
   padding: 30px;
   background-color: #f9f9fa;
 }
@@ -1113,7 +1113,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #c8bc14;
+  background: #ffc601;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1133,7 +1133,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #c8bc14;
+  border: 3px solid #ffc601;
   border-top-color: #eee;
   animation: animate-loading 1s linear infinite;
 }
@@ -1148,7 +1148,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #c8bc14;
+  border-color: #ffc601;
 }
 
 .contact .php-email-form input {
@@ -1160,7 +1160,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #c8bc14;
+  background: #ffc601;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1298,7 +1298,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #c8bc14;
+  background: #ffc601;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -1329,7 +1329,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #c8bc14;
+  background: #ffc601;
   color: #fff;
   text-decoration: none;
 }
